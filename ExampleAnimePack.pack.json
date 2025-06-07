@@ -1,0 +1,105 @@
+{
+  "packName": "Example Anime Fighters",
+  "characters": [
+    {
+      "name": "Shadow Ronin",
+      "imageData": "",
+      "description": "A silent swordsman with unmatched speed and skill."
+    },
+    {
+      "name": "Cyber Ninja",
+      "imageData": "",
+      "description": "Master of stealth and digital illusions."
+    },
+    {
+      "name": "Flame Dancer",
+      "imageData": "",
+      "description": "Controls fire with acrobatic attacks."
+    },
+    {
+      "name": "Crystal Mage",
+      "imageData": "",
+      "description": "Manipulates crystals for offense and defense."
+    },
+    {
+      "name": "Iron Monk",
+      "imageData": "",
+      "description": "Unbreakable defense and devastating punches."
+    },
+    {
+      "name": "Wind Archer",
+      "imageData": "",
+      "description": "Strikes with arrows faster than the eye can see."
+    },
+    {
+      "name": "Thunder Beast",
+      "imageData": "",
+      "description": "Wild warrior channeling electric energy."
+    },
+    {
+      "name": "Void Assassin",
+      "imageData": "",
+      "description": "Moves through shadows to strike unseen."
+    },
+    {
+      "name": "Aqua Sorceress",
+      "imageData": "",
+      "description": "Wields water spells with elegance and precision."
+    },
+    {
+      "name": "Earth Titan",
+      "imageData": "",
+      "description": "Massive strength and nearly indestructible body."
+    },
+    {
+      "name": "Light Paladin",
+      "imageData": "",
+      "description": "Protects allies with radiant shields."
+    },
+    {
+      "name": "Dark Reaper",
+      "imageData": "",
+      "description": "Harvests the souls of defeated enemies."
+    },
+    {
+      "name": "Storm Samurai",
+      "imageData": "",
+      "description": "Combines blade skill with storm magic."
+    },
+    {
+      "name": "Steel Gunner",
+      "imageData": "",
+      "description": "Heavy artillery and pinpoint accuracy."
+    },
+    {
+      "name": "Sky Dancer",
+      "imageData": "",
+      "description": "Controls air currents to fly and strike."
+    },
+    {
+      "name": "Shadow Monk",
+      "imageData": "",
+      "description": "Blends martial arts with shadow techniques."
+    },
+    {
+      "name": "Frost Queen",
+      "imageData": "",
+      "description": "Freezes enemies with icy touch."
+    },
+    {
+      "name": "Solar Knight",
+      "imageData": "",
+      "description": "Charges attacks with solar energy."
+    },
+    {
+      "name": "Mystic Alchemist",
+      "imageData": "",
+      "description": "Uses potions and transmutation in battle."
+    },
+    {
+      "name": "Phantom Blade",
+      "imageData": "",
+      "description": "Untraceable swordsman with illusion techniques."
+    }
+  ]
+}
